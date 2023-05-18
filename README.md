@@ -5,10 +5,16 @@ Tired of getting your attempting  to run software in a virtualbox VM, but gettin
 `vbox-lowkey` can make it more difficult for the software  running in the VM
 to detect that you are running it in a VM.
 
-### Usage
+### Usage - Linux
 1. create vm
 2. clone your VM just in case something goes wrong
 3. `sh vbox-lowkey <vm name>` and wait until it finishes
+4. profit
+
+### Usage - Windows
+1. create vm
+2. clone your VM just in case something goes wrong
+3. `.\vbox-lowkey.ps1 <vm name>` and wait until it finishes
 4. profit
 
 
